@@ -20,6 +20,16 @@
   "main": "dist/open-props.cjs",
   "unpkg": "open-props.min.css",
   "module": "dist/open-props.module.js",
+  "contributors": [
+    {
+      "name": "skarmind",
+      "email": "degray848484@gmail.com"
+    },
+    {
+      "name": "nastyashra",
+      "email": "nastyashramkova@gmail.com"
+    }
+  ],
   "maintainers": [
     {
       "name": "skarmind",
