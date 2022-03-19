@@ -1,7 +1,7 @@
 import fs from 'fs'
 
 export const buildPropsStylesheet = ({filename,props}, {selector,prefix}) => {
-  const file = fs.createWriteStream("../src/" + filename)
+  const file = fs.createWriteStream("../src/styles/" + filename)
 
   let appendedMeta = ''
 
